@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm  J. Alexander</h1>
-<h3 align="center">Economist working in Data Science Field</h3>
+<h3 align="center">Economist working in Data Science </h3>
 
 - 📫 How to reach me **alexdata@mailfence.com**
 
