@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm  J. Alexander</h1>
 <h3 align="center">Economist working in Data Science </h3>
 
+- 📝 I regularly write articles on [https://jhonalexanderbd.github.io/](https://jhonalexanderbd.github.io/)
 - 📫 How to reach me **alexdata@mailfence.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/j-alexander-vc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/j-alexander-vc/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jhonalexander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jhonalexander" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jhonalexander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jhonalexander" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
