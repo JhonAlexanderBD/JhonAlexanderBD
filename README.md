@@ -4,7 +4,7 @@
 - ⚡  My portfolio: [https://github.com/JhonAlexanderBD/Portolio](https://github.com/JhonAlexanderBD/Portolio)
 - 📝 I regularly write articles on [https://jhonalexanderbd.github.io/](https://jhonalexanderbd.github.io/)
 - 📫 How to reach me jhonalexander@protonmail.com
-- [My CV](Alexander.pdf)
+- [My CV](https://github.com/JhonAlexanderBD/Portolio/blob/main/Alexander.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
