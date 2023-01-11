@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm  J.Alexander</h1>
-<h3 align="center">Economist working in Data Science </h3>
+<h3 align="center">Economist|Data Science </h3>
 
 - [Resume](https://github.com/JhonAlexanderBD/Portolio/blob/main/Alexander.pdf)
 - ⚡  My portfolio: [https://github.com/JhonAlexanderBD/Portolio](https://github.com/JhonAlexanderBD/Portolio)
